@@ -1,6 +1,6 @@
 # Trabalho de Processamento de Imagens
 
-Trabalho da disciplina Processamento de Imagens
+Trabalho da disciplina Processamento de Imagens.
 
 ## Descrição
 
