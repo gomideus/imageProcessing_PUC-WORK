@@ -17,9 +17,9 @@ O classificador escolhido para o trabalho é o SVM.
 
 Tivemos cerca de 60% de acurácia
 
-## Como usar ?
+## Restrição
 
-- Esse projeto só funciona com a existência da pasta `imagens` disponibilizada pelo professor da disciplina. Não pude trazer essa pasta para o repositório pois as imagens não são de livre acesso.
+- Esse projeto funciona somente com a existência da pasta `imagens` disponibilizada pelo professor da disciplina. Não podemos trazer essa pasta para o repositório pois as imagens não são de livre acesso.
 
 # Interface Gráfica
 
