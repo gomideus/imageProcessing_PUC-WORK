@@ -41,7 +41,7 @@ Para treinar devemos primeiro selecionar o path do diretório `imagens`.
 ## Testes
 
 ![04](https://user-images.githubusercontent.com/68978413/175438428-ef21a12f-797e-49e4-a512-3d179236cd04.jpg)
-![04b](https://user-images.githubusercontent.com/68978413/175438770-0c62bcfe-15fc-4578-a42d-c092c790e9be.jpg)
+![04b](https://user-images.githubusercontent.com/68978413/175438848-52149275-7c50-4ce7-87e1-c9ada7adb5f3.jpg)
 
 ## Finalização do teste
 
