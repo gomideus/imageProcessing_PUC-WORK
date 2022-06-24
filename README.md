@@ -15,7 +15,7 @@ Implementar um programa que leia imagens de exames mamográficos e possibilite d
 
 O classificador escolhido para o trabalho é o SVM.
 
-Tivemos cerca de 60% de acurácia
+Tivemos cerca de 60% de acurácia.
 
 ## Restrição
 
