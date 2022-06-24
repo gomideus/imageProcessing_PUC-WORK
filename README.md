@@ -1,6 +1,7 @@
 # Trabalho de Processamento de Imagens
 
 Trabalho da disciplina Processamento de Imagens.
+Desenvolvido por Gabriel Gomides e Eduardo Antunes.
 
 ## Descrição
 
