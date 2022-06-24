@@ -19,3 +19,39 @@ Tivemos cerca de 60% de acurácia
 ## Como usar ?
 
 - Esse projeto só funciona com a existência da pasta `imagens` disponibilizada pelo professor da disciplina. Não pude trazer essa pasta para o repositório pois as imagens não são de livre acesso.
+
+# Interface Gráfica
+
+Demonstração da UI e suas funcionalidades
+
+## Tela principal
+
+![01](https://user-images.githubusercontent.com/68978413/175438282-28bd6225-ef60-4ece-8cfb-11ed45b9e4c2.jpg)
+
+## Opções do menu
+
+![02](https://user-images.githubusercontent.com/68978413/175438311-f3664b26-8ac9-4a15-9c17-a2082f0ff1d4.jpg)
+
+## Treino
+
+Para treinar devemos primeiro selecionar o path do diretório `imagens`.
+
+![03](https://user-images.githubusercontent.com/68978413/175438378-f2203235-59c4-4f7b-a86c-441d2f7795ce.jpg)
+
+## Teste
+
+![04](https://user-images.githubusercontent.com/68978413/175438428-ef21a12f-797e-49e4-a512-3d179236cd04.jpg)
+
+## Finalização do teste
+
+![05](https://user-images.githubusercontent.com/68978413/175438495-e7b90452-abb3-482e-828c-725d5faa1d34.jpg)
+
+## Caracterizar imagem importada
+
+![06](https://user-images.githubusercontent.com/68978413/175438540-d2c041bc-1042-4ee4-a3e1-e66b1597c4af.jpg)
+
+## Recorte de imagem
+
+![08](https://user-images.githubusercontent.com/68978413/175438597-384e7242-f17d-4008-97d8-79d1647f86ad.jpg)
+![07](https://user-images.githubusercontent.com/68978413/175438599-f01d0367-dff0-44ed-9033-c1ff4c670441.jpg)
+
